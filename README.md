@@ -1,0 +1,1 @@
+ This repository contains a simple yet powerful to-do list application developed using HTML, CSS, and JavaScript. Organize your tasks effortlessly with intuitive features such as task creation, deletion, and marking as complete.
